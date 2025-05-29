@@ -21,8 +21,8 @@
 
 <h2 align="center">🏆 My Stats</h2>
 
-<img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Taiyang999&show_icons=true&count_private=true&theme=blueberry" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taiyang999&layout=compact&theme=blueberry" />&nbsp;&nbsp;
+<img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Taiyang&show_icons=true&count_private=true&theme=blueberry" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taiyang&layout=compact&theme=blueberry" />&nbsp;&nbsp;
 
 ### 📫 Let's Connect
 
